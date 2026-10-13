@@ -1,0 +1,3 @@
+Results for graphs with 2 vertices.
+
+Tested 1 graphs and found 0 counterexamples.

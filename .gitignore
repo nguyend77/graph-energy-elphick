@@ -1,0 +1,7 @@
+.clangd
+cpp/data/input/*
+!cpp/data/input/.gitignore
+cpp/bin/
+cpp/build/
+python/.venv
+python/__pycache__

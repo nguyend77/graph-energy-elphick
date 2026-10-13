@@ -1,0 +1,3 @@
+Results for graphs with 5 vertices.
+
+Tested 21 graphs and found 0 counterexamples.

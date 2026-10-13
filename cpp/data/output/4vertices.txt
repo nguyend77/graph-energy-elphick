@@ -1,0 +1,3 @@
+Results for graphs with 4 vertices.
+
+Tested 6 graphs and found 0 counterexamples.

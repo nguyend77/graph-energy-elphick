@@ -1,0 +1,3 @@
+Results for graphs with 8 vertices.
+
+Tested 11117 graphs and found 0 counterexamples.

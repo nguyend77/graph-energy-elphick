@@ -1,0 +1,3 @@
+Results for graphs with 6 vertices.
+
+Tested 112 graphs and found 0 counterexamples.
