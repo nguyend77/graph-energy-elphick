@@ -63,8 +63,8 @@ bool passUpperBound(const Graph &g) {
 
 void searchCounterexample(const unsigned int &n) {
     const std::string suffix = std::to_string(n) + "vertices.txt";
-    std::ifstream inFile("data/input/" + suffix);
-    std::ofstream outFile("data/output/" + suffix);
+    std::ifstream inFile("../../data/input/" + suffix);
+    std::ofstream outFile("../../data/output/" + suffix);
     outFile << "Results for graphs with " << n << " vertices.\n\n";
     std::string line;
     unsigned int tested = 0;

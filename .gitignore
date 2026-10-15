@@ -1,7 +1,7 @@
 .clangd
-cpp/data/input/*
-!cpp/data/input/.gitignore
-cpp/bin/
-cpp/build/
-python/.venv
-python/__pycache__
+data/input/*
+!data/input/.gitignore
+src/cpp/bin/
+src/cpp/build/
+src/python/.venv
+src/python/__pycache__
