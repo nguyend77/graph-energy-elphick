@@ -1,4 +1,4 @@
-CXXFLAGS = -std=c++20 -O2 -isystem /usr/include/eigen3
+CXXFLAGS = -std=c++20 -O2 -march=native -DNDEBUG -isystem /usr/include/eigen3
 
 bin/main: build/main.o build/graph.o
 	mkdir -p bin
